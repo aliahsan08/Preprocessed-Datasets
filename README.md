@@ -1,4 +1,7 @@
-Two Datasets have been provided in this repository.
+Three Datasets have been provided in this repository.
+
+Marketing Team Data:
+The original dataset given to us.
 
 Dataset1:
 This dataset has been grouped by campaign IDs and names directly. The original dataset was divided by age groups, whereas dataset1 holds summed up figures such as impressions, clicks etc. The % figures have also been dealt with through proper mathematics.
